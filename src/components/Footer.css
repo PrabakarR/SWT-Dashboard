@@ -1,0 +1,9 @@
+.footer-transparent {
+    background-color: transparent;
+    border-top: 0;
+}
+.footer {
+    padding: 1rem 0;
+    color: #626976;
+    margin-top: auto;
+}

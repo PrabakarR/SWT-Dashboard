@@ -68,3 +68,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### `npm install react-bootstrap bootstrap` Bootstrap Intsall
+
+The best way to consume React-Bootstrap is via the npm package which you can install with npm.
+
+### `npm install react-bootstrap-icons --save` Bootstrap Icons
+
+Bootstrap Icons library to use as React components.
+
+### `npm i react-data-table-component` Bootstrap Icons
+
+React Data Table Component
+
+### `npm install react-data-table-component styled-components` Bootstrap Icons
+
+Install the data-table component first,
+
+### `npm install react-data-table-component-extensions` Bootstrap Icons
+
+then install the data-table-extensions extension.
