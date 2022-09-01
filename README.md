@@ -78,14 +78,14 @@ The best way to consume React-Bootstrap is via the npm package which you can ins
 
 Bootstrap Icons library to use as React components.
 
-### `npm i react-data-table-component` Bootstrap Icons
+### `npm i react-data-table-component`
 
 React Data Table Component
 
-### `npm install react-data-table-component styled-components` Bootstrap Icons
+### `npm install react-data-table-component styled-components`
 
 Install the data-table component first,
 
-### `npm install react-data-table-component-extensions` Bootstrap Icons
+### `npm install react-data-table-component-extensions`
 
 then install the data-table-extensions extension.
